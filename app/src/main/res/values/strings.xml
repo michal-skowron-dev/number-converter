@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">Systemy Liczbowe</string>
+    <string name="error">ERROR</string>
+    <string name="b1">0</string>
+    <string name="b2">1</string>
+    <string name="b3">2</string>
+    <string name="b4">3</string>
+    <string name="b5">4</string>
+    <string name="b6">5</string>
+    <string name="b7">6</string>
+    <string name="b8">7</string>
+    <string name="b9">8</string>
+    <string name="b10">9</string>
+    <string name="b11">A</string>
+    <string name="b12">B</string>
+    <string name="b13">C</string>
+    <string name="b14">D</string>
+    <string name="b15">E</string>
+    <string name="b16">F</string>
+    <string name="b17">G</string>
+    <string name="b18">H</string>
+    <string name="b19">I</string>
+    <string name="b20">J</string>
+    <string name="b21">K</string>
+    <string name="b22">L</string>
+    <string name="b23">M</string>
+    <string name="b24">N</string>
+    <string name="b25">O</string>
+    <string name="b26">P</string>
+    <string name="b27">Q</string>
+    <string name="b28">R</string>
+    <string name="b29">S</string>
+    <string name="b30">T</string>
+    <string name="b31">U</string>
+    <string name="b32">V</string>
+    <string name="b33">W</string>
+    <string name="b34">X</string>
+    <string name="b35">Y</string>
+    <string name="b36">Z</string>
+    <string name="b37">-></string>
+    <string name="b38">=</string>
+</resources>
